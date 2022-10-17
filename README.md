@@ -18,8 +18,8 @@ If you do not understand what a problem is requiring please ask for clarificatio
 
 When solving any of these problems place comments in the code to indicate the problem being solved.  The comment should look something like `Iron - 2`.
 
-- [ ] **1.** Create a method that takes a String from the user of `even` or `odds` as a parameter.  Have the computer generate a random number between 1 or 2.  Take in an int from the user, it must be a 1 or 2.  Calculate the sum of the two numbers.  Check to see if the user won or lost.  If the user passed in even then the sum must be even to win and vice versa.
-- [ ] **2.** Create a method that takes a Scanner object `scan` and a Random object `rand` as parameters.  Inside the method have the computer generate a random int between 11 and 50.  Take in an int from the user.  Whoever has the larger number, you or the computer, is declared winner via prints.  Do the same thing again, but this time whoever has the smaller number wins.  Display a message to the user on what the computer number was and who won.  You may only use Math methods to determine the winner, no if statements allowed to determine the winner.
+- [x] **1.** Create a method that takes a String from the user of `even` or `odds` as a parameter.  Have the computer generate a random number between 1 or 2.  Take in an int from the user, it must be a 1 or 2.  Calculate the sum of the two numbers.  Check to see if the user won or lost.  If the user passed in even then the sum must be even to win and vice versa.
+- [] **2.** Create a method that takes a Scanner object `scan` and a Random object `rand` as parameters.  Inside the method have the computer generate a random int between 11 and 50.  Take in an int from the user.  Whoever has the larger number, you or the computer, is declared winner via prints.  Do the same thing again, but this time whoever has the smaller number wins.  Display a message to the user on what the computer number was and who won.  You may only use Math methods to determine the winner, no if statements allowed to determine the winner.
 
 
 #### Bronze Tier Problems
@@ -27,8 +27,8 @@ If you do not understand what a problem is requiring please ask for clarificatio
 
 When solving any of these problems place comments in the code to indicate the problem being solved.  The comment should look something like `Bronze - 1`.
 
-- [ ] **1.** Create a method that gets a String from the user and see if the String they entered begins with a capital letter or not.  Print out a message to the user that lets them know if the word starts with a capital or not.  You may only use the compareTo() method when checking the letters.  You are not allowed to use charAt().
-- [ ] **2.** Create a method that counts the amount of times a certain letter in a given string appears.  It should return the count.  You should take the String `word` and the `letterToCount` as parameters.  You may only use `substring()` when getting single letters.
+- [x] **1.** Create a method that gets a String from the user and see if the String they entered begins with a capital letter or not.  Print out a message to the user that lets them know if the word starts with a capital or not.  You may only use the compareTo() method when checking the letters.  You are not allowed to use charAt().
+- [x] **2.** Create a method that counts the amount of times a certain letter in a given string appears.  It should return the count.  You should take the String `word` and the `letterToCount` as parameters.  You may only use `substring()` when getting single letters.
 
 
 #### Gold Tier Problems
